@@ -25,4 +25,4 @@ model.py - Contains model class that is responsible for holding user input, perf
 
 view.py -  Contains view class that is responsible for producing the GUI
 
-To run - python gui_main.p
+To run - python gui_main.py
