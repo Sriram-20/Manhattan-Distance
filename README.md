@@ -10,7 +10,11 @@ Manhattan distance is a distance metric between two points in a N dimensional ve
 # Terminal Command Line
 main.py -  The file that hold the main program without GUI, only logic of the program
 
+To run - python main.py
+
 test.py -  A test file that contains 15 test cases.
+
+To run - python test.py
 
 # GUI
 gui_main.py -  Entry point of the program, this file kickstart the program 
@@ -20,3 +24,5 @@ controller.py - Contains controller class that is responsible for processing use
 model.py - Contains model class that is responsible for holding user input, performing input validation, and calculating the Manhattan distance
 
 view.py -  Contains view class that is responsible for producing the GUI
+
+To run - python gui_main.p
